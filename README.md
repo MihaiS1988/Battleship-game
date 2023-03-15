@@ -13,4 +13,6 @@ To play the game, you'll need to have Python 3 installed on your computer.
 * If you guess the correct location of the battleship, you win the game! If you don't guess correctly within four turns, the game is over.
 * After each guess, the game board will be updated to show your guesses. "X" characters represent missed guesses, and the battleship location will be revealed when the game is over.
 
+This game was created  while learning python
+
 # Try the game and have fun!
